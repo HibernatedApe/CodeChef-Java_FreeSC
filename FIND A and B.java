@@ -1,6 +1,7 @@
 /*  
     PROBLEM CODE: FINDK3
     Link: https://www.codechef.com/problems/FINDK3?tab=statement
+    Difficulty Rating: 802
 
     Problem:
     You are given three distinct positive integers X,Y, andZ. Your task is to find integers A and B such that:
